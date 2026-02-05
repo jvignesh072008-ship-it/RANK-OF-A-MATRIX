@@ -31,7 +31,8 @@ print(result)
 ```
 ## Output:
 
-![alt text](<Screenshot 2026-02-03 112624.png>)
+<img width="1189" height="779" alt="Screenshot 2026-02-03 112624" src="https://github.com/user-attachments/assets/e7fad63a-6e60-4d23-81b4-e751f6fdd0ca" />
+
 
 ## Result:
 
