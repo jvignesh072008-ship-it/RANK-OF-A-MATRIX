@@ -11,10 +11,9 @@ To write a python program to find the rank of a matrix
 ## Algorithm:
 
 ### Step 1: Import Library: Import the NumPy library (import numpy as np) to access linear algebra functions.
-### Step 2:Define Matrix: Define the input matrix as a nested list or NumPy array structure, e.g., arr = np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]]).
-### Step 3:Compute SVD: Use np.linalg.matrix_rank to perform Singular Value Decomposition (SVD) on the matrix, which finds its singular values.
-### Step 4:Thresholding & Rank Count: Count the number of singular values that are greater than a small threshold (default tolerance), which represents the linearly independent rows/columns. 
-### Step 5:Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
+### Step 2: Define Matrix: Define the input matrix as a nested list or NumPy array structure, e.g., arr = np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]]).
+### Step 3: Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
+### Step 4: Displays the final rank of the matrix to the console
  
 ## Program:
 ```
