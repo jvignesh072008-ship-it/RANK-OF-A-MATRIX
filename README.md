@@ -13,7 +13,7 @@ To write a python program to find the rank of a matrix
 ### Step 1: Import Library: Import the NumPy library (import numpy as np) to access linear algebra functions.
 ### Step 2: Define Matrix: Define the input matrix as a nested list or NumPy array structure, e.g., arr = np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]]).
 ### Step 3: Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
-### Step 4: Displays the final rank of the matrix to the console
+### Step 4: Displays the result as rank of the matrix to the console using print() function.
  
 ## Program:
 ```
